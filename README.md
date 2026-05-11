@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm Lisa ≽^• ˕ •^≼
 
-<!--
-**momew05/momew05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT college student interested in Data Analytics, Python, and software development in general.
 
-Here are some ideas to get you started:
+𖦹 Currently learning:
+- pandas
+- scikit-learn
+- SQL
+- machine learning basics
+- backend development
+- cybersecurity fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ʚɞ Tech Stack
+
+- Python
+- JavaScript
+- SQL
+- Git & GitHub
+- pandas
+- Jupyter Notebook
+- matplotlib
+
+---
+
+## 𝜗ৎ Things I Love
+
+- Bumble coffee
+- Early mornings
+- Quiet work sessions
+- Clean code & notebooks
+
+---
+
+## 𑣲 Contact Me
+
+- Telegram: @momew05
+- Email: momewo05@gmail.com
